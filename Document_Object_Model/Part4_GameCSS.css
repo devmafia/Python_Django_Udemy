@@ -1,0 +1,15 @@
+table {
+  margin: auto;
+}
+td {
+  border: 5px solid black;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  font-size: 90px;
+  padding: 5px;
+}
+
+iframe {
+  margin: auto;
+}

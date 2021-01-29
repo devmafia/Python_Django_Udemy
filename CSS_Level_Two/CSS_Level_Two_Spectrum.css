@@ -1,0 +1,53 @@
+/*Choose a cool Font Text Scheme*/
+
+h2 {
+  font-family: 'Slabo 27px', serif;
+  text-align: center;
+}
+
+/*Choose a color palette from here:
+https://coolors.co/
+or create your own here:
+paletton.com/*/
+
+table {
+  margin: auto;
+}
+
+td {
+  height: 200px;
+  width: 100px;
+  padding: 5px;
+  border: 5px solid white;
+}
+
+#one {
+  background-color: #011627;
+}
+
+#two {
+  background-color: #FDFFFC;
+}
+
+#three {
+  background-color: #2EC4B6;
+}
+
+#four {
+  background-color: #E71D36;
+}
+
+#five {
+  background-color: #FF9F1C;
+}
+
+/*
+I chose:
+
+#247BA0
+#70C1B3
+#B2DBBF
+#F3FFBD
+#FF1654
+
+*/

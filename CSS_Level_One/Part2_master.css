@@ -1,0 +1,19 @@
+body {
+  background: url();
+  background-repeat: no-repeat;
+}
+
+div {
+  background: red;
+  border-color: blue;
+  border-width: thick;
+  border-style: dotted;
+}
+
+p {
+  color: yellow;
+}
+
+span {
+  background: red;
+}

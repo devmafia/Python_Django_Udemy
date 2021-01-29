@@ -1,0 +1,33 @@
+body {
+  font-family: 'Pacifico', cursive;
+  background-color: black;
+  border-left: green solid 50px;
+  border-right: green solid 50px;
+  border-bottom: green solid 50px;
+  color: white;
+  margin: 0px;
+}
+h1, h2 {
+  margin: 20px 0;
+  text-align: center;
+}
+p {
+  width: 50%;
+  margin: 20px auto;
+  text-align: center;
+}
+form {
+  text-align: center;
+}
+input {
+  height: 20px;
+  width: 25%;
+  margin: 0 0 10px 0;
+}
+input[type="submit"] {
+  height: 40px;
+  width: 8%;
+  background-color: orange;
+  border: white solid 2px;
+  border-radius: 10px;
+}

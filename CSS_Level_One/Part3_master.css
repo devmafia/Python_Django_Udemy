@@ -1,0 +1,21 @@
+* {
+
+}
+
+div.firstDiv {
+  color: red;
+}
+
+#singledout {
+  color: greenl;
+  text-decoration: line-through;
+}
+
+h3 + ul {
+  border: 4px dotted purple;
+}
+
+li a[href=""] {
+  color: blue;
+  border: 5x solid orange;
+}
